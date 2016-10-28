@@ -203,5 +203,8 @@ public class ClaszDAO extends BaseHibernateDAO {
 //		clsdao.delete(cls);
 		clsdao.testFetch();
 		
+		
+		
+		
 	}
 }
